@@ -25,7 +25,7 @@ p{
 }
 
 #bob{
-  margin-bottom: 50%;
+  
   width: 400;
   height: auto;
 }
@@ -35,7 +35,7 @@ p{
 }
 
 .a2{
-  margin-left: 500px;
+  margin-left: 200px;
   font-size: 25px;
   font-style: oblique;
   color : black;
@@ -50,9 +50,79 @@ p{
 .H1{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: antiquewhite;
+	margin-left: 200px;
+  text-align: justify;
+	padding: 10px;
+  margin-right: 200px;
+  text-align: center;
+  border: 10px solid #13585f;
+  border-radius: 6px;
 }
 
 #bdPer{
   background-color: #26B9C8;
+  
 }
 
+.ladoalado2{
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+#bob2{
+  width: 300px;
+  height: 100px;
+  
+}
+
+#Patrick{
+
+  width: 300px;
+  height: 100px;
+  
+}
+
+#Lulamo{
+  width: 300px;
+  height: 100px;
+  
+
+}
+
+#gary{
+  width: 300px;
+  height: 100px;
+ 
+}
+
+#placton{
+  width: 300px;
+  height: 100px;
+ 
+}
+
+#seusiri{
+  width: 300px;
+  height: 150px;
+  
+}
+
+.ladoalado2 img{
+  border: 5px solid #000000 !important;
+  border-radius: 6px;
+}
+
+.button{
+  margin-left: 600px;
+  background-color: #ae0d0d;
+  color: #000;
+  font-size:50px;
+  border: 5px solid #000000 
+}
+
+#final{
+  width: 1000px;
+  height: 500px;
+ margin-left: 15%;
+}
